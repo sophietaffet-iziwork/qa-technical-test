@@ -38,9 +38,7 @@ npx playwright test
 1. **Extend the Test Suite**:
    - Add a test to validate that an item can be successfully added to the cart.
 2. **Edge Case Handling**:
-   - Write tests for invalid or missing credentials.
-3. **Parameterize Tests**:
-   - Run the login tests with different sets of credentials.
+   - Add tests for login edge cases.
 
 ## Additional Notes
 
