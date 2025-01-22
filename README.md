@@ -1,6 +1,6 @@
 # Playwright Test Project
 
-This project demonstrates the use of Playwright with the Page Object Model (POM) design pattern. It includes basic tests for logging into the Sauce Demo website.
+This project demonstrates the use of Playwright with the Page Object Model (POM) design pattern. It includes a basic test for logging into the Sauce Demo website.
 
 ## Project Structure
 
