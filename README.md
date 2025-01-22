@@ -37,9 +37,9 @@ npx playwright test
 ## Tasks for Candidates
 
 1. **Correct the Test Suite**:
-   - Test to validate that an item can be successfully added to the cart is broken. Fix it.
+   - The test to validate that an item can be successfully added to the cart is broken. Please fix it.
 2. **Extend the Test Suite**:
-   - Add a test to validate that an item can be successfully removed to the cart.
+   - Add a test to validate that you can navigate to the cart and remove an item.
 3. **Edge Case Handling**:
    - Add tests for login edge cases.
 
