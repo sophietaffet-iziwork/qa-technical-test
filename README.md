@@ -1,6 +1,6 @@
 # Playwright Test Project
 
-This project demonstrates the use of Playwright with the Page Object Model (POM) design pattern. It includes a basic test for logging into the Sauce Demo website.
+This project demonstrates the use of Playwright with the Page Object Model (POM) design pattern. It includes basic tests for logging into the Sauce Demo website and adding an item to the cart.
 
 ## Project Structure
 
@@ -35,9 +35,11 @@ npx playwright test
 
 ## Tasks for Candidates
 
-1. **Extend the Test Suite**:
-   - Add a test to validate that an item can be successfully added to the cart.
-2. **Edge Case Handling**:
+1. **Correct the Test Suite**:
+   - Test to validate that an item can be successfully added to the cart is broken. Fix it.
+2. **Extend the Test Suite**:
+   - Add a test to validate that an item can be successfully removed to the cart.
+3. **Edge Case Handling**:
    - Add tests for login edge cases.
 
 ## Additional Notes
