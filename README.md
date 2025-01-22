@@ -23,6 +23,7 @@ This project demonstrates the use of Playwright with the Page Object Model (POM)
 2. Install dependencies:
    ```bash
    npm install
+   npx playwright install
    ```
 
 ## Running Tests
